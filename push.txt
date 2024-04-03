@@ -1,0 +1,6 @@
+git init
+git add . 
+git remote set-url origin https://github.com/ismail-farooq/site.git
+git remote add origin https://github.com/ismail-farooq/site.git
+git commit -m "first commit"
+git push -u origin main
